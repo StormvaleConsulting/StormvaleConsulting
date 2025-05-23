@@ -50,3 +50,14 @@ New Town, Edinburgh, EH2 3JP
 US Entity  
 1580 N Logan St, Ste 660 PMB 574958  
 Denver, CO 80203-1994  
+
+
+---
+
+© 2025 Stormvale Consulting Ltd / LLC. All rights reserved.
+
+Stormvale™, ForgeMind™, GhostLink™, and CyberSentinel™ are proprietary systems under development by Stormvale Consulting Ltd / LLC. Unauthorized reproduction, replication, or use of the above-named platforms is prohibited.
+
+This repository is for demonstration, documentation, and collaboration purposes only. No code contained herein should be considered final or production-grade without written approval from the Stormvale executive team.
+
+Contact paulcoo@stormvaleconsultingltd.co.uk for licensing or usage inquiries.
