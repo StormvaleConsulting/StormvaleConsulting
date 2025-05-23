@@ -3,13 +3,13 @@ Stormvale Consulting Ltd / LLC
 Stormvale is an independent AI research and engineering firm focused on building infrastructure-grade platforms for compliance-critical environments. We operate as a dual-jurisdiction entity (UK/US), developing systems for deployment in public, nonprofit, and institutional contexts.
 
 What We Build
-ForgeMind
+ForgeMind :
 A modular automation engine that compiles internal logic into usable infrastructure. Outputs include dynamic workflows, adaptive CRM overlays, and policy-aware system scaffolds.
 
-GhostLink
+GhostLink :
 A secure orchestration layer designed for onboarding, offboarding, and stateful identity control across regulated systems. Built to handle logic inheritance and access traceability.
 
-CyberSentinel
+CyberSentinel :
 An inference-side defense platform focused on threat modeling, anomaly recognition, and AI-driven intrusion response. Designed for adaptive system protection with audit-ready outputs.
 
 Development Focus
